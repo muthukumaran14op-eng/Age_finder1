@@ -1,4 +1,4 @@
-age-finder/
-│── index.html
-│── style.css
-│── script.js
+age-finder
+•index.html
+•style.css
+•script.js
